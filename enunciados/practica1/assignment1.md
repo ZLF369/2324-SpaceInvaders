@@ -4,7 +4,7 @@
  
 **Objectives:** Introduction to object orientation and to Java; use of arrays and enumerations; string handling with the `String` class; input-output on the console.
 
-**Frequently Asked Questions**: As usual (and normal), you may have questions, we will compile them in this [frequently asked questions document](../faq.md). To know the latest changes that have been introduced, you can consult [the history of the document](https://github.com/informaticaucm-TPI/2324-SpaceInvaders-SOLUCION/commits/main/enunciados/faq.md).
+**Frequently Asked Questions**: As usual (and normal), you may have questions, we will compile them in this [frequently asked questions document](../faq_en.md). To know the latest changes that have been introduced, you can consult [the history of the document](https://github.com/informaticaucm-TPI/2324-SpaceInvaders-SOLUCION/commits/main/enunciados/faq_en.md).
 
 <!-- TOC start -->
   * [Copy Detection](#control-de-copias)
