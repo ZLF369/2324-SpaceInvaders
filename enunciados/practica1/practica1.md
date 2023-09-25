@@ -196,7 +196,7 @@ shock[W]ave: UCM-Ship releases a shock wave.
 [r]eset: Starts a new game.
 [h]elp: Prints this help message.
 [e]xit: Terminates the program.
-[none]: Skips one cycle.
+[n]one: Skips one cycle.
 ```
 
 - `reset`: Este comando permite reiniciar la partida, llevando al juego a la configuración inicial.
