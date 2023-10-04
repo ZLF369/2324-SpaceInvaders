@@ -8,7 +8,37 @@ import tp1.logic.Position;
 public class Ufo {
 
 	//TODO fill your code
+    // Private attributes
+    private int column;
+    private int row;
+    private int resistance;
 
+    // Constructor
+    public UFO(int initialColumn, int initialRow) {
+        this.column = initialColumn;
+        this.row = initialRow;
+        this.resistance = 1;
+    }
+
+	public void horizontalMove( // enum move ?? ){
+		
+	}
+
+	public int getResistance(){
+
+		return resistance;
+	}
+
+	public int getColumns(){
+		return column;
+	}
+
+//
+
+	public int getRow(){
+		return row;
+	}
+	
 	private boolean enabled;
 	private Game game;
 	
