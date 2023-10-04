@@ -8,7 +8,16 @@ import tp1.logic.Position;
 public class Ufo {
 
 	//TODO fill your code
+	private int column, row, resistance;
 
+	//Constructor
+	public Ufo(int iniCol, iniRow){
+		this.column = iniCol;
+		this.row = iniRow;
+		this.resistance = 1;
+	}
+
+	
 	private boolean enabled;
 	private Game game;
 	
